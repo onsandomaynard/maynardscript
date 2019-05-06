@@ -1,0 +1,2 @@
+# maynardscript
+javascript
